@@ -49,7 +49,7 @@ Urban air pollution affects health, livability, and sustainability. This project
 
 ### 📸 Sample Output
 
-![Clustered Cities](![Screenshot 2025-07-06 183630](https://github.com/user-attachments/assets/a4749d68-ed7a-45d3-a96d-b3e4eef0a3f3))  
+![Screenshot 2025-07-06 183630](https://github.com/user-attachments/assets/a4749d68-ed7a-45d3-a96d-b3e4eef0a3f3) 
 
 
 ---
